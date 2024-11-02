@@ -1,6 +1,6 @@
 function App()
 {
-  const cities = ["Chennai","Hyderabad","Vijayawada","Vizag"]
+  const cities = ["Chennai","Hyderabad","Vijayawada","Vizag","Kolkatha","Bombay","Turuvanthapuram"]
 
   const listItems = cities.map((city,index)=>
             <li key={index}>{city}</li>
