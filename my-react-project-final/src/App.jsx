@@ -10,6 +10,7 @@ function App() {
     <>
       <h1>This is My React Final Project</h1>
       <p>This project developed by chandrabose pallikanti software developer at sathya technologies</p>
+      <p>This was modified after chandrabose modifications by Chandu Pallikanti</p>
     </>
   )
 }
